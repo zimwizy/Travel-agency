@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Nazime</h1>
 <h3 align="center">A CSE student and a passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **Javascript and PHP**
+- 🌱 I’m currently learning **VusJS**
 
-- 🤝 I’m looking for help with **PHP**
+- 🤝 I’m looking for help with **VueJS**
 
 <img align="right" width="350" src="https://miro.medium.com/max/1100/1*VMmvImch6VU5pc2VktY1uw.gif" alt="zimwizy">
 
