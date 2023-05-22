@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nazime</h1>
 <h3 align="center">A CSE student and a passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **VusJS**
+- 🌱 I’m currently learning **VueJS**
 
 - 🤝 I’m looking for help with **VueJS**
 
